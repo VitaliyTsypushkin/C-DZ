@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\GB\C# семинары\DZ3\bin\Debug\net6.0\DZ3.exe
+C:\Users\admin\Documents\GB\C# семинары\DZ3\bin\Debug\net6.0\DZ3.deps.json
+C:\Users\admin\Documents\GB\C# семинары\DZ3\bin\Debug\net6.0\DZ3.runtimeconfig.json
+C:\Users\admin\Documents\GB\C# семинары\DZ3\bin\Debug\net6.0\DZ3.dll
+C:\Users\admin\Documents\GB\C# семинары\DZ3\bin\Debug\net6.0\DZ3.pdb
+C:\Users\admin\Documents\GB\C# семинары\DZ3\obj\Debug\net6.0\DZ3.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GB\C# семинары\DZ3\obj\Debug\net6.0\DZ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\GB\C# семинары\DZ3\obj\Debug\net6.0\DZ3.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GB\C# семинары\DZ3\obj\Debug\net6.0\DZ3.AssemblyInfo.cs
+C:\Users\admin\Documents\GB\C# семинары\DZ3\obj\Debug\net6.0\DZ3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GB\C# семинары\DZ3\obj\Debug\net6.0\DZ3.dll
+C:\Users\admin\Documents\GB\C# семинары\DZ3\obj\Debug\net6.0\refint\DZ3.dll
+C:\Users\admin\Documents\GB\C# семинары\DZ3\obj\Debug\net6.0\DZ3.pdb
+C:\Users\admin\Documents\GB\C# семинары\DZ3\obj\Debug\net6.0\DZ3.genruntimeconfig.cache
+C:\Users\admin\Documents\GB\C# семинары\DZ3\obj\Debug\net6.0\ref\DZ3.dll
