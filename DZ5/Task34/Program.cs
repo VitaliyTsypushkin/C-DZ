@@ -25,4 +25,5 @@ for (int j = 0; j < array.Length; j++)
 {
     if (array[j] % 2 == 0)
         count += count;
+}        
 System.Console.WriteLine(count);
