@@ -1,0 +1,11 @@
+﻿Console.WriteLine("Введите первое число: ");
+int a = Convert.ToInt32(Console.ReadLine());
+System.Console.WriteLine("Введите второе число: ");
+int b = Convert.ToInt32(Console.ReadLine());
+System.Console.WriteLine("Введите третье число: ");
+int c = Convert.ToInt32(Console.ReadLine());
+int max = 0;
+if (a > b) max = a;
+if (a < b) max = b;
+if (max < c) max = c;
+Console.WriteLine("max= " + max);
